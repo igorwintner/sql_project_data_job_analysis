@@ -20,7 +20,7 @@ As a newbie data analyst, I wanted to know what are the optimal skills to have o
 
 - **Tableau:** Tool I used for simple visualizations of files I exported from VS Code.
 
-- **Git & GitHub:** Ability to share the project with others, but also easily manageable versions of my code.
+- **Git & GitHub:** Ability to share the project with others, but also easily manageable versions of the code.
 
 # The Analysis
 Every query in this project was focused on exploring distinct facets of the data analyst job market. Here is my method for addressing each question:
@@ -35,13 +35,10 @@ SELECT
 	salary_year_avg,
 	job_posted_date,
     name AS company_name
-
 FROM 
     job_postings_fact
-
 LEFT JOIN 
     company_dim ON job_postings_fact.company_id = company_dim.company_id
-
 WHERE 
     job_title_short = 'Data Analyst' AND
     job_location = 'Anywhere' AND 
@@ -146,7 +143,7 @@ Here is the breakdown of the most sought-after skills for data analysts in 2023:
 
 *Table displaying the demand for the primary 5 skills in job postings for data analysts*
 
-| Skills    | Demand Count Czechia |
+| Skills    | Demand Count Czechia  |
 |-----------|-----------------------|
 | sql       | 528                   |
 | python    | 298                   |
@@ -177,7 +174,7 @@ JOIN
     ON skills_dim.skill_id = skills_job_dim.skill_id
 WHERE 
     job_title_short = 'Data Analyst' AND
-    salary_year_avg	IS NOT NULL AND
+    salary_year_avg IS NOT NULL AND
     job_work_from_home = 'True'
 GROUP BY 
     skills
@@ -263,7 +260,6 @@ SELECT
     demanded_skills.skills,
     demanded_skills.demand_count,
     avg_skill_salary.avg_salary
-
 FROM demanded_skills
 JOIN avg_skill_salary
     ON demanded_skills.skill_id = avg_skill_salary.skill_id
