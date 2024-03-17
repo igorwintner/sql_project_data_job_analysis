@@ -143,6 +143,7 @@ Here is the breakdown of the most sought-after skills for data analysts in 2023:
 | python    | 57326        |
 | tableau   | 46554        |
 | power bi  | 39468        |
+
 *Table displaying the demand for the primary 5 skills in job postings for data analysts*
 
 | Skills    | Demand Count Czechia |
@@ -152,6 +153,7 @@ Here is the breakdown of the most sought-after skills for data analysts in 2023:
 | excel     | 275                   |
 | power bi  | 234                   |
 | tableau   | 209                   |
+
 *Table displaying the demand for the primary 5 skills in job postings for data analysts in Czechia*
 
 **SQL** and **Excel** continue to be crucial, underscoring the importance of solid foundational skills in data manipulation and spreadsheet usage.
@@ -197,6 +199,7 @@ Here is an analysis of the outcomes concerning the most lucrative skills for Dat
 | jupyter       |            152,777 |
 | pandas        |            151,821 |
 | elasticsearch |            145,000 |
+
 *Table displaying the average salary for the top 10 highest-paying skills among data analysts*
 
 **Robust Demand for Big Data & ML Skills:** Analysts proficient in big data technologies (such as PySpark, Couchbase), machine learning tools (like DataRobot, Jupyter), and Python libraries (such as Pandas, NumPy) command top salaries, highlighting the industry's emphasis on data processing and predictive modeling capabilities.
