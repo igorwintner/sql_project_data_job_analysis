@@ -2,8 +2,8 @@
 Q: What are the top-paying data analyst jobs?
 - Identify the top 10 highest-paying Data Analyst roles that are available remotely
 - Focuses on job postings with specified salaries (remove nulls)
-- BONUS: Include company names of top 10 roles
-- I also included jobs in Prague or Brno if wanted to see jobs available in the Czechia in the comments,
+- Include company names of top 10 roles
+- I also included jobs in Prague or Brno, if wanted to see jobs available in Czechia in the comments,
   but those jobs aren't remote and they contain NULL values, so I didn't include them in the query.
 - Why? Highlight the top-paying opportunities for Data Analysts, offering insights into employment options and location flexibility.
 */

@@ -31,5 +31,5 @@ LIMIT 5
 Here's the breakdown of the most demanded skills for data analysts in 2023
 SQL and Excel remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
 Programming and Visualization Tools like Python, Tableau, and Power BI are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
-In the Czechia, SQL is also in the first place, but Python is more in demand than Excel and Power BI is also slightly more in-demand than Tableau.
+In Czechia, SQL is also in the first place, but Python is more in-demand than Excel and Power BI is also slightly more in-demand than Tableau.
 */

@@ -25,8 +25,7 @@ WITH demanded_skills AS(
     WHERE 
         job_postings_fact.job_title_short = 'Data Analyst' AND
         salary_year_avg	IS NOT NULL 
-        --AND job_work_from_home = True AND
-        --job_postings_fact.job_country = 'Czechia'
+        --AND job_work_from_home = True
     GROUP BY 
         skills_dim.skill_id
 ), 
@@ -50,7 +49,6 @@ avg_skill_salary AS (
         job_title_short = 'Data Analyst' AND
         salary_year_avg	IS NOT NULL AND
         job_work_from_home = 'True'
-        --AND job_postings_fact.job_country = 'Czechia'
     GROUP BY 
         skills_job_dim.skill_id
 )
@@ -76,5 +74,5 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 High-Demand Programming Languages: Python and R stand out for their high demand, with demand counts of 1840 and 1073 respectively. Despite their high demand, their average salaries are around $101,397 for Python and $100,499 for R, indicating that proficiency in these languages is highly valued, but also widely available.
 If I wanted to filter only remote jobs, the top 5 most in-demand skills are still SQL, Excel, Python, Tableau and R. But e.g. Looker is much more in-demand for remote jobs with a total demand count of 260 and for remote jobs 49.
 Cloud Tools and Technologies: Skills in specialized technologies such as Snowflake, Azure, AWS, and BigQuery show significant demand with relatively high average salaries, pointing towards the growing importance of cloud platforms and big data technologies in data analysis.
-Business Intelligence and Visualization Tools: Tableau and Power BI, with demand counts of 1659 and 1044 respectively, and average salaries around $99,288 and $97,431, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
+BI and Visualization Tools: Tableau and Power BI, with demand counts of 1659 and 1044 respectively, and average salaries around $99,288 and $97,431, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
 Database Technologies: The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.*/
