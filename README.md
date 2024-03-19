@@ -157,7 +157,7 @@ Here is the breakdown of the most sought-after skills for data analysts in 2023:
 
 Programming languages and Visualization Tools such as **Python, Tableau**, and **Power BI** are vital, indicating a growing necessity for technical abilities in data visualization and decision-making support.
 
-In the Czechia, **SQL** remains at the forefront, with **Python** surpassing **Excel** in demand, and **Power BI** slightly edging out **Tableau** in popularity.
+In Czechia, **SQL** remains at the forefront, with **Python** surpassing **Excel** in demand, and **Power BI** slightly edging out **Tableau** in popularity.
 
 ### 4. What skills are linked to higher earning potential?
 Examine the average salary linked to individual skills within Data Analyst roles aids in pinpointing the most lucrative skills to develop or enhance. Unfortunately no data was available for Czechia located jobs.
