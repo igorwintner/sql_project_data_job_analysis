@@ -184,7 +184,7 @@ LIMIT 25
 ```
 Here is an analysis of the outcomes concerning the most lucrative skills for Data Analysts:
 
-| Skills        | Average Salary ($) |
+| Skills        | Avg Salary ($) |
 |---------------|-------------------:|
 | pyspark       |            208,172 |
 | bitbucket     |            189,155 |
@@ -270,7 +270,7 @@ ORDER BY
 ```
 Here is an analysis of the most advantageous skills for Data Analysts in 2023:
 
-|Skill ID|Skills         |Demand Count|Average Salary|
+|Skill ID|Skills         |Demand Count|Avg Salary ($)|
 |--------|---------------|------------|----------|
 |0       |sql            |3083        |97237     |
 |181     |excel          |2143        |87288     |
@@ -285,7 +285,7 @@ Here is an analysis of the most advantageous skills for Data Analysts in 2023:
 
 *Table displaying the most optimal skills for data analyst sorted by the demand count*
 
-|Skill ID|Skills    |Demand Count|Average Salary|
+|Skill ID|Skills    |Demand Count|Avg Salary($)|
 |--------|----------|------------|----------|
 |0       |sql       |398         |97237     |
 |181     |excel     |256         |87288     |
