@@ -285,6 +285,8 @@ Here is an analysis of the most advantageous skills for Data Analysts in 2023:
 
 *Table displaying the most optimal skills for data analyst sorted by the demand count*
 
+**Remote jobs only**
+
 |Skill ID|Skills    |Demand Count|Avg Salary($)|
 |--------|----------|------------|----------|
 |0       |sql       |398         |97237     |
@@ -303,7 +305,7 @@ Here is an analysis of the most advantageous skills for Data Analysts in 2023:
 
 **High-Demand Programming Languages:** Python and R are standout languages, with demand counts of 1840 and 1073 respectively. Despite their popularity, average salaries hover around $101,397 for Python and $100,499 for R, indicating their widespread value and availability in the market.
 
-**Remote positions:** The top 5 most sought-after skills for remain SQL, Excel, Python, Tableau, and R. However, Looker exhibits notably higher demand for remote jobs with a total count of 260 and 49, respectively, for remote jobs specifically.
+**Remote positions:** The results are overall very similar. The top 5 most sought-after skills for remain SQL, Excel, Python, Tableau, and R. However, Looker exhibits notably higher demand for remote jobs with a total count of 260 and 49, respectively, for remote jobs specifically.
 
 **Cloud Tools and Technologies:** Proficiency in specialized platforms such as Snowflake, Azure, AWS is in high demand with relatively lucrative average salaries, underscoring the increasing significance of cloud platforms in data analysis.
 
