@@ -287,7 +287,7 @@ Here is an analysis of the most advantageous skills for Data Analysts in 2023:
 
 **Remote jobs only**
 
-|Skill ID|Skills    |Demand Count|Avg Salary($)|
+|Skill ID|Skills    |Demand Count|Avg Salary ($)|
 |--------|----------|------------|----------|
 |0       |sql       |398         |97237     |
 |181     |excel     |256         |87288     |
